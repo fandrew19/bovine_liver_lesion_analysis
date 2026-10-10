@@ -1,0 +1,11 @@
+path,label,lesion_type,case_id,md5,width,height,bytes,exif_orientation,qt_mean
+normal_liver/13.jpeg,0,normal,13,7b399950f745c835deb7a3c9a009c7c8,810,1080,164691,6.0,12.21875
+normal_liver/14.jpeg,0,normal,14,570e72817abd20b1140bd195b56a0dcb,810,1080,155306,6.0,12.21875
+normal_liver/21.jpeg,0,normal,21,1a5914388bcf49aef20dfdc8fb616d24,810,1080,172121,6.0,12.21875
+normal_liver/22.jpeg,0,normal,22,1a5914388bcf49aef20dfdc8fb616d24,810,1080,172121,6.0,12.21875
+normal_liver/26.jpeg,0,normal,26,b89784f5ab584f945088faa85eba4349,810,1080,149893,6.0,12.21875
+normal_liver/27.jpeg,0,normal,27,7f400c852b1acf736c150c52d4a37a2a,810,1080,149608,6.0,12.21875
+normal_liver/28.jpeg,0,normal,28,29f10ba88e71bdde9cc2e95f012166fa,810,1080,169945,6.0,12.21875
+normal_liver/31.jpeg,0,normal,31,3585efceb88dabc01f857471bfda2c1d,810,1080,157401,6.0,12.21875
+normal_liver/5.jpeg,0,normal,5,dbf3d3ccee7fa5ded181cc05e7bc9e3d,810,1080,156041,6.0,12.21875
+normal_liver/9.jpeg,0,normal,9,5cf491124231425becc6e84906c4217e,810,1080,157702,6.0,12.21875

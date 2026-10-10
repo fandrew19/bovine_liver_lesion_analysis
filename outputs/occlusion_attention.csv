@@ -1,0 +1,7 @@
+path,y_true,base_prob,occlusion_border_share
+abnormal_liver/Liver Fascioliasis/LF21.jpg,1,0.9999996423721313,0.7529492974281311
+abnormal_liver/LIVER Telangiectasis/T1 a.jpg,1,0.9998031258583069,0.9714186787605286
+abnormal_liver/Liver Abscesses/ABS 4.jpg,1,0.9961355924606323,0.6404318809509277
+normal_liver/38.jpeg,0,5.839439154442516e-07,1.0
+normal_liver/39.jpeg,0,1.774924839992309e-06,1.0
+normal_liver/92.jpeg,0,3.2857960832188837e-06,1.0

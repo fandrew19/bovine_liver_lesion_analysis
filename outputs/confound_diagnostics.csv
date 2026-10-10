@@ -1,0 +1,8 @@
+variant,auc,note
+full image,0.9288495276653173,reference
+centre patch only,0.8189608636977059,moderate residual
+border ring only (no centre),0.9712044534412956,high -- signal is NOT lesion detail
+"border ring, per-image colour normalised",0.9436032388663967,high -- signal is NOT lesion detail
+heavy blur (colour layout only),0.9590856950067476,high -- signal is NOT lesion detail
+8x8 thumbnail (all detail gone),0.9893387314439946,high -- signal is NOT lesion detail
+mean colour only (3 numbers),0.8699224021592442,high -- signal is NOT lesion detail

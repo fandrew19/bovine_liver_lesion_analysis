@@ -1,0 +1,33 @@
+path,lesion_type,y_true,prob,border_share
+abnormal_liver/LIVER Telangiectasis/T1 a.jpg,telangiectasis,1,0.9998031258583069,0.614560067653656
+abnormal_liver/LIVER Telangiectasis/T1.jpg,telangiectasis,1,0.11424127221107483,0.7562166452407837
+abnormal_liver/LIVER Telangiectasis/T1b.jpg,telangiectasis,1,0.9880056977272034,0.35812610387802124
+abnormal_liver/Liver Abscesses/ABS 4.jpg,abscess,1,0.9961355924606323,0.5638410449028015
+abnormal_liver/Liver Abscesses/ABS 5.jpg,abscess,1,0.04740806296467781,0.9921875
+abnormal_liver/Liver Fascioliasis/LF12.jpg,fascioliasis,1,0.5255398154258728,0.5184497237205505
+abnormal_liver/Liver Fascioliasis/LF15.jpg,fascioliasis,1,0.28481584787368774,0.491618275642395
+abnormal_liver/Liver Fascioliasis/LF17.jpg,fascioliasis,1,0.95930016040802,0.4471450448036194
+abnormal_liver/Liver Fascioliasis/LF2.jpg,fascioliasis,1,0.9959767460823059,0.4546971917152405
+abnormal_liver/Liver Fascioliasis/LF21.jpg,fascioliasis,1,0.9999996423721313,0.5385270118713379
+abnormal_liver/Liver Fascioliasis/LF25.jpg,fascioliasis,1,0.9950433969497681,0.6035339832305908
+abnormal_liver/Liver Fascioliasis/LF31.jpeg,fascioliasis,1,0.9694314002990723,0.5914098024368286
+abnormal_liver/Liver Fascioliasis/LF7.jpg,fascioliasis,1,0.9906982779502869,0.6700677871704102
+normal_liver/10.jpeg,normal,0,0.02391301468014717,0.99517822265625
+normal_liver/3.jpg,normal,0,0.0001700652646832168,1.0
+normal_liver/38.jpeg,normal,0,5.839439154442516e-07,1.0
+normal_liver/39.jpeg,normal,0,1.774924839992309e-06,1.0
+normal_liver/43.jpeg,normal,0,0.010304530151188374,1.0
+normal_liver/47.jpeg,normal,0,0.0007245460292324424,0.99993896484375
+normal_liver/48.jpeg,normal,0,8.28133852337487e-05,1.0
+normal_liver/49.jpeg,normal,0,4.030280979350209e-05,1.0
+normal_liver/51.jpeg,normal,0,1.9996850824099965e-05,1.0
+normal_liver/52.jpeg,normal,0,2.226163269369863e-05,1.0
+normal_liver/60.jpeg,normal,0,0.0014782892540097237,1.0
+normal_liver/61.jpeg,normal,0,0.00027068762574344873,0.9921875
+normal_liver/66.jpeg,normal,0,5.562057594943326e-06,1.0
+normal_liver/69.jpeg,normal,0,8.504476863890886e-05,1.0
+normal_liver/80.jpeg,normal,0,2.0766863599419594e-05,1.0
+normal_liver/81.jpeg,normal,0,0.01867125742137432,0.9982531666755676
+normal_liver/92.jpeg,normal,0,3.2857960832188837e-06,1.0
+normal_liver/93.jpeg,normal,0,0.005196013953536749,0.9735305905342102
+normal_liver/95.jpeg,normal,0,4.031514617963694e-05,1.0

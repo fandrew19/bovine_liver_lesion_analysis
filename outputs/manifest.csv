@@ -1,0 +1,160 @@
+path,label,lesion_type,liver_id,case_id,md5,width,height,bytes,exif_orientation,qt_mean,harmonised_path,mask_fraction
+abnormal_liver/LIVER CIRRHOSIS/C1.jpg,1,cirrhosis,L000,C1,16fa48d93889aafc43e21e8c3ce757c6,572,702,67962,,35.59375,data_harmonised/L000__C1.png,0.6106109619140625
+abnormal_liver/LIVER FIBROSIS/F1.jpg,1,fibrosis,L001,F1,8802f8c1306eb3daf4f90e26109ff20b,868,932,133420,,35.59375,data_harmonised/L001__F1.png,0.4409942626953125
+abnormal_liver/LIVER Telangiectasis/T1 a.jpg,1,telangiectasis,L002,T1,fe1c3165e51b54336039509cc1d03a8e,810,1080,169771,,35.59375,data_harmonised/L002__T1 a.png,0.8123016357421875
+abnormal_liver/LIVER Telangiectasis/T1.jpg,1,telangiectasis,L002,T1,34c0f242abcbdb341dfa6f71ae0160b2,678,992,84215,,35.59375,data_harmonised/L002__T1.png,0.5755462646484375
+abnormal_liver/LIVER Telangiectasis/T1b.jpg,1,telangiectasis,L002,T1,6960980547ce9865d96545e3e7742eed,708,1074,90978,,35.59375,data_harmonised/L002__T1b.png,0.650360107421875
+abnormal_liver/Liver Abscesses/ABS 1.jpg,1,abscess,L003,ABS 1,6dfdcc36a1ba0851da86cbcf30abdc96,593,917,84191,,44.8125,data_harmonised/L003__ABS 1.png,0.39599609375
+abnormal_liver/Liver Abscesses/ABS 10.jpg,1,abscess,L004,ABS 10,6ccd778a46b5384bc6a6a409354a72c7,1006,678,70821,,35.59375,data_harmonised/L004__ABS 10.png,0.714141845703125
+abnormal_liver/Liver Abscesses/ABS 11 a.jpg,1,abscess,L005,ABS 11,71dbfc61b795cbfb0536f75e5e2b50c3,707,1258,109386,,35.59375,data_harmonised/L005__ABS 11 a.png,0.5215301513671875
+abnormal_liver/Liver Abscesses/ABS 11b.jpg,1,abscess,L005,ABS 11,1b80eeae471a730b56ee3f686c6ea7ac,960,1280,190959,,35.59375,data_harmonised/L005__ABS 11b.png,0.399658203125
+abnormal_liver/Liver Abscesses/ABS 12.jpg,1,abscess,L006,ABS 12,b290d697de74af9972e309a44c2eb161,1246,1280,107245,,35.59375,data_harmonised/L006__ABS 12.png,0.6266021728515625
+abnormal_liver/Liver Abscesses/ABS 13.jpg,1,abscess,L007,ABS 13,af8e95aa14afbc135ce0bea76b04a9e8,581,1033,79983,,35.59375,data_harmonised/L007__ABS 13.png,0.85418701171875
+abnormal_liver/Liver Abscesses/ABS 14.jpg,1,abscess,L008,ABS 14,2ea013972db039e11ff9bb66d2617d48,675,1280,84379,,35.59375,data_harmonised/L008__ABS 14.png,0.737274169921875
+abnormal_liver/Liver Abscesses/ABS 15.jpeg,1,abscess,L009,ABS 15,08ffc4185af50271735ee5afb6ffa7be,485,772,49935,,35.59375,data_harmonised/L009__ABS 15.png,0.4845733642578125
+abnormal_liver/Liver Abscesses/ABS 16.jpg,1,abscess,L010,ABS 16,13d4aa1408543f6abcc4b4e7e7ecfc39,773,1080,82322,,44.8125,data_harmonised/L010__ABS 16.png,0.651641845703125
+abnormal_liver/Liver Abscesses/ABS 16a.jpg,1,abscess,L010,ABS 16,c74b32f8fa5342515f038b6658cb57f3,574,892,38531,,44.8125,data_harmonised/L010__ABS 16a.png,0.458221435546875
+abnormal_liver/Liver Abscesses/ABS 2.jpg,1,abscess,L011,ABS 2,67d2acf857cbd45f86a8f5fc6b8cb6b0,642,1055,43865,,44.8125,data_harmonised/L011__ABS 2.png,0.4132080078125
+abnormal_liver/Liver Abscesses/ABS 3.jpg,1,abscess,L012,ABS 3,9d207279e4d253aa6da078985e8b27e3,622,1080,72871,,44.8125,data_harmonised/L012__ABS 3.png,0.4203643798828125
+abnormal_liver/Liver Abscesses/ABS 4.jpg,1,abscess,L013,ABS 4,e6557be8a2e595340afcc1e4f927036e,599,1048,48193,,44.8125,data_harmonised/L013__ABS 4.png,0.422119140625
+abnormal_liver/Liver Abscesses/ABS 5.jpg,1,abscess,L014,ABS 5,12c338509af9c3e018c26775b6e9e2f0,850,1276,115157,,35.59375,data_harmonised/L014__ABS 5.png,0.59735107421875
+abnormal_liver/Liver Abscesses/ABS 6.jpg,1,abscess,L015,ABS 6,0db3de911d985120385acffc99505acd,691,937,75854,,35.59375,data_harmonised/L015__ABS 6.png,0.4599761962890625
+abnormal_liver/Liver Abscesses/ABS 7.jpg,1,abscess,L016,ABS 7,9dd5641b86368e1ca58f2b04d1dcf6f5,597,905,65269,,35.59375,data_harmonised/L016__ABS 7.png,0.627410888671875
+abnormal_liver/Liver Abscesses/ABS 8.jpg,1,abscess,L017,ABS 8,d9bf894495d43672aef27ad7e5e919b9,506,793,59401,,35.59375,data_harmonised/L017__ABS 8.png,0.462738037109375
+abnormal_liver/Liver Abscesses/ABS 9.jpg,1,abscess,L018,ABS 9,413deba8846476a36fb3125c13981bb5,591,993,73407,,35.59375,data_harmonised/L018__ABS 9.png,0.3240966796875
+abnormal_liver/Liver Fascioliasis/LF1.jpg,1,fascioliasis,L019,LF1,5eb034eea4a76d8e322879426bacd910,810,1080,82012,,44.8125,data_harmonised/L019__LF1.png,0.3519744873046875
+abnormal_liver/Liver Fascioliasis/LF10.jpg,1,fascioliasis,L020,LF10,e8e3976e4ed05e013a4c98ac27a508b7,840,979,143490,,35.59375,data_harmonised/L020__LF10.png,0.391845703125
+abnormal_liver/Liver Fascioliasis/LF11.jpg,1,fascioliasis,L021,LF11,ff9adf0a52870202ac43e8e69f120848,654,691,96451,,35.59375,data_harmonised/L021__LF11.png,0.4018707275390625
+abnormal_liver/Liver Fascioliasis/LF12.jpg,1,fascioliasis,L022,LF12,916ea7521cd2f10044108b8499fb343b,556,942,94790,,35.59375,data_harmonised/L022__LF12.png,0.3834075927734375
+abnormal_liver/Liver Fascioliasis/LF13a.jpg,1,fascioliasis,L023,LF13,4b549bed63d36efab30f8adbe4fb3844,683,876,104969,,35.59375,data_harmonised/L023__LF13a.png,0.449066162109375
+abnormal_liver/Liver Fascioliasis/LF13b.jpg,1,fascioliasis,L023,LF13,e24b0541cd3a0128200cda42c90b61c4,606,856,76269,,35.59375,data_harmonised/L023__LF13b.png,0.5935516357421875
+abnormal_liver/Liver Fascioliasis/LF13c.jpg,1,fascioliasis,L023,LF13,9ec224c8f279811aa17dfbd7d4cdcf98,810,1080,190931,,35.59375,data_harmonised/L023__LF13c.png,0.353057861328125
+abnormal_liver/Liver Fascioliasis/LF14.jpg,1,fascioliasis,L024,LF14,25849a936182ff6d8053228f8e2147ee,960,1280,212258,,35.59375,data_harmonised/L024__LF14.png,0.5875244140625
+abnormal_liver/Liver Fascioliasis/LF14a.jpg,1,fascioliasis,L024,LF14,31455e24e12fee109d76f630c636f3d4,891,715,63103,,35.59375,data_harmonised/L024__LF14a.png,0.318511962890625
+abnormal_liver/Liver Fascioliasis/LF15.jpg,1,fascioliasis,L025,LF15,60a3b86539363fe8ff47eb1503dafc98,585,941,88632,,35.59375,data_harmonised/L025__LF15.png,0.3726043701171875
+abnormal_liver/Liver Fascioliasis/LF16.jpg,1,fascioliasis,L026,LF16,665fa4af480f1ea94172155ba99c2f6d,960,1280,175434,,35.59375,data_harmonised/L026__LF16.png,0.75048828125
+abnormal_liver/Liver Fascioliasis/LF17.jpg,1,fascioliasis,L027,LF17,032ee3f4560277b5db507d0ac6e1a96a,960,1162,149649,,35.59375,data_harmonised/L027__LF17.png,0.279022216796875
+abnormal_liver/Liver Fascioliasis/LF19.jpg,1,fascioliasis,L028,LF19,5b2d791592c841f6c21c2d5f5a5db27b,569,868,73795,,44.8125,data_harmonised/L028__LF19.png,0.297210693359375
+abnormal_liver/Liver Fascioliasis/LF19a.jpg,1,fascioliasis,L028,LF19,10dab4b6556683e92956f3a21c76324a,574,930,45180,,44.8125,data_harmonised/L028__LF19a.png,0.9168701171875
+abnormal_liver/Liver Fascioliasis/LF2.jpg,1,fascioliasis,L029,LF2,ce7f1c41467a370648b1155b066a564c,647,1080,62996,,44.8125,data_harmonised/L029__LF2.png,0.43768310546875
+abnormal_liver/Liver Fascioliasis/LF20.jpg,1,fascioliasis,L030,LF20,3c5b7f34f8e57508ef509302eedba2f7,574,1020,100952,,44.8125,data_harmonised/L030__LF20.png,0.659210205078125
+abnormal_liver/Liver Fascioliasis/LF21.jpg,1,fascioliasis,L031,LF21,8a7fca876ec8edf0552e864f147e8db5,810,1080,147204,,44.8125,data_harmonised/L031__LF21.png,0.5746307373046875
+abnormal_liver/Liver Fascioliasis/LF22.jpg,1,fascioliasis,L032,LF22,78c7b7fe16f87a6a612d4a58e1e8312b,810,1080,108866,,35.59375,data_harmonised/L032__LF22.png,0.2922515869140625
+abnormal_liver/Liver Fascioliasis/LF23.jpg,1,fascioliasis,L033,LF23,57941c3b579e612ccf2d276565f7d773,810,1080,118144,,35.59375,data_harmonised/L033__LF23.png,0.4470672607421875
+abnormal_liver/Liver Fascioliasis/LF24.jpg,1,fascioliasis,L034,LF24,7c255bb1870baeb9acbb25f81364212a,810,1080,96138,,44.8125,data_harmonised/L034__LF24.png,0.324249267578125
+abnormal_liver/Liver Fascioliasis/LF25.jpg,1,fascioliasis,L035,LF25,9ba311780b17d38a35588e30dace7457,810,1012,142177,,35.59375,data_harmonised/L035__LF25.png,0.85015869140625
+abnormal_liver/Liver Fascioliasis/LF26.jpg,1,fascioliasis,L036,LF26,a110871c19f89864f0732f7be75e32b6,682,1080,116627,,35.59375,data_harmonised/L036__LF26.png,0.5150299072265625
+abnormal_liver/Liver Fascioliasis/LF27.jpg,1,fascioliasis,L037,LF27,d76ba79d1d4bc8aedbf17206462419f8,810,1080,151443,,35.59375,data_harmonised/L037__LF27.png,0.085052490234375
+abnormal_liver/Liver Fascioliasis/LF28.jpeg,1,fascioliasis,L038,LF28,6152d48568230d645955ed0282cbb969,478,780,35785,,35.59375,data_harmonised/L038__LF28.png,1.0
+abnormal_liver/Liver Fascioliasis/LF28a.jpeg,1,fascioliasis,L038,LF28,2293d2f60dfe543a618d1fece4429a87,602,1004,91553,,35.59375,data_harmonised/L038__LF28a.png,0.2753448486328125
+abnormal_liver/Liver Fascioliasis/LF29.jpeg,1,fascioliasis,L039,LF29,152c92aebfe72c096e2d8cc3b349e777,960,1280,180507,,35.59375,data_harmonised/L039__LF29.png,0.2358245849609375
+abnormal_liver/Liver Fascioliasis/LF3.jpg,1,fascioliasis,L040,LF3,7de801764b0746abf1c934161c612e89,1080,810,77657,,44.8125,data_harmonised/L040__LF3.png,0.1489715576171875
+abnormal_liver/Liver Fascioliasis/LF30.jpeg,1,fascioliasis,L041,LF30,7cce25c254c1e60bdcd88a02a7d2051f,633,643,66860,,35.59375,data_harmonised/L041__LF30.png,0.2955322265625
+abnormal_liver/Liver Fascioliasis/LF31.jpeg,1,fascioliasis,L042,LF31,0c3a0d5e18145ee960cd100a97e87eec,674,755,91738,,35.59375,data_harmonised/L042__LF31.png,0.2882232666015625
+abnormal_liver/Liver Fascioliasis/LF32.jpg,1,fascioliasis,L043,LF32,8209280c47bf08d09b796e1a9f73d484,1080,980,131602,,44.8125,data_harmonised/L043__LF32.png,0.36627197265625
+abnormal_liver/Liver Fascioliasis/LF33.jpg,1,fascioliasis,L044,LF33,708a7671b58a2136c381cd904e865cf8,652,458,59718,,35.59375,data_harmonised/L044__LF33.png,0.4368896484375
+abnormal_liver/Liver Fascioliasis/LF4.jpg,1,fascioliasis,L045,LF4,4ee0e9228f987e09c76b31a2f503e426,598,1015,49545,,44.8125,data_harmonised/L045__LF4.png,0.749298095703125
+abnormal_liver/Liver Fascioliasis/LF5.jpg,1,fascioliasis,L046,LF5,cff731934874bf5eec07398ea8a22ea3,810,1030,107779,,35.59375,data_harmonised/L046__LF5.png,0.1626739501953125
+abnormal_liver/Liver Fascioliasis/LF6.jpg,1,fascioliasis,L047,LF6,13c2b6750b2952d7bd28f519e816dfce,897,1133,150567,,35.59375,data_harmonised/L047__LF6.png,0.300994873046875
+abnormal_liver/Liver Fascioliasis/LF7.jpg,1,fascioliasis,L048,LF7,41242beae550e42849a8107476e05dd5,960,1280,186702,,35.59375,data_harmonised/L048__LF7.png,0.2375640869140625
+abnormal_liver/Liver Fascioliasis/LF8.jpg,1,fascioliasis,L049,LF8,3885e63f5774a823283032db6354d2d9,946,1008,217702,,35.59375,data_harmonised/L049__LF8.png,0.4049835205078125
+abnormal_liver/Liver Fascioliasis/LF9.jpg,1,fascioliasis,L050,LF9,d29c7a3b3ca6d59e2fb53065ca29325a,770,1007,127751,,35.59375,data_harmonised/L050__LF9.png,0.13922119140625
+abnormal_liver/Liver Fascioliasis/LFF.jpg,1,fascioliasis,L051,,05eed1027c458b7de9b529f600c454f0,929,916,63494,,44.8125,data_harmonised/L051__LFF.png,0.9304656982421875
+abnormal_liver/Liver Fascioliasis/LFFF.jpg,1,fascioliasis,L052,,aed11abe13462e0b8c9fadbd0d5c180d,563,938,70619,,35.59375,data_harmonised/L052__LFFF.png,0.817657470703125
+normal_liver/1.jpg,0,normal,L053,1,7b4a73a6d9ff41ff2fa1e8361715afde,810,1080,139708,6.0,12.21875,data_harmonised/L053__1.png,0.6427459716796875
+normal_liver/10.jpeg,0,normal,L054,10,3a7ae993b92792d0cab19870fb2cd859,810,1080,175694,6.0,12.21875,data_harmonised/L054__10.png,0.302154541015625
+normal_liver/100.jpeg,0,normal,L055,100,3f72a92193973f7d173b83528b42b68e,810,1080,137271,6.0,12.21875,data_harmonised/L055__100.png,0.60540771484375
+normal_liver/101.jpeg,0,normal,L056,101,5d90b8f01c394324a0a591176556964e,810,1080,111304,6.0,12.21875,data_harmonised/L056__101.png,0.3926239013671875
+normal_liver/102.jpeg,0,normal,L057,102,f26b5c86509d8f1c8058d5f1554d0b14,810,1080,174261,6.0,12.21875,data_harmonised/L057__102.png,0.307220458984375
+normal_liver/103.jpeg,0,normal,L058,103,0abe2aeed92bb0e371976ff17492fdec,810,1080,132847,6.0,12.21875,data_harmonised/L058__103.png,0.248626708984375
+normal_liver/104.jpeg,0,normal,L056,104,433f9b101fa3e8fef81c9aa62edd00ad,810,1080,104179,6.0,12.21875,data_harmonised/L056__104.png,0.411865234375
+normal_liver/105.jpeg,0,normal,L059,105,c390e39f4cf923b69a94e145068840d8,810,1080,140207,6.0,12.21875,data_harmonised/L059__105.png,0.44183349609375
+normal_liver/106.jpeg,0,normal,L060,106,578b580e3271dd128d24c441b2adbd55,810,1080,148823,6.0,12.21875,data_harmonised/L060__106.png,0.612884521484375
+normal_liver/107.jpeg,0,normal,L059,107,b27d0c40b1247fc8380856c85e803098,810,1080,140926,6.0,12.21875,data_harmonised/L059__107.png,0.4394378662109375
+normal_liver/108.jpeg,0,normal,L060,108,f01c916cb341df9871b5f37d13e46a98,810,1080,156443,6.0,12.21875,data_harmonised/L060__108.png,0.5799102783203125
+normal_liver/11.jpeg,0,normal,L061,11,7b399950f745c835deb7a3c9a009c7c8,810,1080,164691,6.0,12.21875,data_harmonised/L061__11.png,0.2588348388671875
+normal_liver/12.jpeg,0,normal,L062,12,570e72817abd20b1140bd195b56a0dcb,810,1080,155306,6.0,12.21875,data_harmonised/L062__12.png,0.32318115234375
+normal_liver/15.jpeg,0,normal,L063,15,35b5510e420116278cc076d323908d36,810,1080,141419,6.0,12.21875,data_harmonised/L063__15.png,0.510955810546875
+normal_liver/16.jpeg,0,normal,L064,16,fe4333785ef5e4c0f160fbdef4ed9efc,810,1080,161110,6.0,12.21875,data_harmonised/L064__16.png,0.2601165771484375
+normal_liver/17.jpeg,0,normal,L065,17,cef41dd64853874600ed321eedf2ad7c,810,1080,150778,6.0,12.21875,data_harmonised/L065__17.png,0.505950927734375
+normal_liver/18.jpeg,0,normal,L066,18,4c904d84407ec2e83c0aefb6f8d18f87,810,1080,170744,6.0,12.21875,data_harmonised/L066__18.png,0.4959716796875
+normal_liver/19.jpeg,0,normal,L067,19,0264bb96c563e8229a07d48f44822fb2,810,1080,132389,6.0,12.21875,data_harmonised/L067__19.png,0.5023651123046875
+normal_liver/2.jpg,0,normal,L068,2,d4fd9c3a236a5ce25e7de99ec83fd425,810,1080,178662,6.0,12.21875,data_harmonised/L068__2.png,0.2927703857421875
+normal_liver/20.jpeg,0,normal,L069,20,1a5914388bcf49aef20dfdc8fb616d24,810,1080,172121,6.0,12.21875,data_harmonised/L069__20.png,0.5102691650390625
+normal_liver/23.jpeg,0,normal,L069,23,29f10ba88e71bdde9cc2e95f012166fa,810,1080,169945,6.0,12.21875,data_harmonised/L069__23.png,0.50970458984375
+normal_liver/24.jpeg,0,normal,L070,24,b89784f5ab584f945088faa85eba4349,810,1080,149893,6.0,12.21875,data_harmonised/L070__24.png,0.5282440185546875
+normal_liver/25.jpeg,0,normal,L071,25,7f400c852b1acf736c150c52d4a37a2a,810,1080,149608,6.0,12.21875,data_harmonised/L071__25.png,0.545654296875
+normal_liver/29.jpeg,0,normal,L072,29,3585efceb88dabc01f857471bfda2c1d,810,1080,157401,6.0,12.21875,data_harmonised/L072__29.png,0.603424072265625
+normal_liver/3.jpg,0,normal,L073,3,dbf3d3ccee7fa5ded181cc05e7bc9e3d,810,1080,156041,6.0,12.21875,data_harmonised/L073__3.png,0.4825286865234375
+normal_liver/30.jpeg,0,normal,L072,30,4e33702a9facf01b581ed7dd3b667a77,810,1080,157096,6.0,12.21875,data_harmonised/L072__30.png,0.6074981689453125
+normal_liver/32.jpeg,0,normal,L074,32,4431e0b835f909f8838d79bfb9242b1b,810,1080,134792,6.0,12.21875,data_harmonised/L074__32.png,0.56011962890625
+normal_liver/33.jpeg,0,normal,L074,33,0c8ce67871045b39b46362e70c07f87c,810,1080,145941,6.0,12.21875,data_harmonised/L074__33.png,0.5400390625
+normal_liver/34.jpeg,0,normal,L075,34,2a5a1a1da235494428b7fa87c0e5e24f,810,1080,168281,6.0,12.21875,data_harmonised/L075__34.png,0.5683135986328125
+normal_liver/35.jpeg,0,normal,L075,35,bf1261394a7c40a5c3594dd8e01a7537,810,1080,170497,6.0,12.21875,data_harmonised/L075__35.png,0.56396484375
+normal_liver/36.jpeg,0,normal,L076,36,784f582463b3a9eb32db8dcc7047d7a1,810,1080,128379,6.0,12.21875,data_harmonised/L076__36.png,0.43792724609375
+normal_liver/37.jpeg,0,normal,L076,37,2431bc68aaac238da3a61a8c3000628d,810,1080,128842,6.0,12.21875,data_harmonised/L076__37.png,0.558563232421875
+normal_liver/38.jpeg,0,normal,L077,38,0a2bd963358293cd9294a6554385505d,810,1080,164176,6.0,12.21875,data_harmonised/L077__38.png,0.5976104736328125
+normal_liver/39.jpeg,0,normal,L077,39,96d0715d75bdc2989f5b3b97236ba15b,810,1080,166940,6.0,12.21875,data_harmonised/L077__39.png,0.5950164794921875
+normal_liver/4.jpeg,0,normal,L078,4,e76ab063566ac9f537165eb80d415562,810,1080,173543,6.0,12.21875,data_harmonised/L078__4.png,0.3332977294921875
+normal_liver/40.jpeg,0,normal,L079,40,a20e2263b04360498eff1c24155c9f27,1080,810,213498,6.0,12.21875,data_harmonised/L079__40.png,0.15301513671875
+normal_liver/41.jpeg,0,normal,L080,41,56b7389b19828fce6ed53019c2c046e6,1080,810,167546,6.0,12.21875,data_harmonised/L080__41.png,0.5272674560546875
+normal_liver/42.jpeg,0,normal,L081,42,6fd7a6b4b8f1b3688b22547235447f15,1080,810,186533,6.0,12.21875,data_harmonised/L081__42.png,0.33056640625
+normal_liver/43.jpeg,0,normal,L082,43,c6fe7246c2c365d2773a5467c2f3b327,1080,810,193197,6.0,12.21875,data_harmonised/L082__43.png,0.514617919921875
+normal_liver/45.jpeg,0,normal,L083,45,18ef88f3f5c48371a284b7619b997c42,810,1080,146216,6.0,12.21875,data_harmonised/L083__45.png,0.3603363037109375
+normal_liver/46.jpeg,0,normal,L084,46,31fb85bbfee07820d684c5bc56ecfd15,810,1080,155710,6.0,12.21875,data_harmonised/L084__46.png,0.3903656005859375
+normal_liver/47.jpeg,0,normal,L085,47,f8dae93d05dfd34623f144fd6e379274,810,1080,152437,6.0,12.21875,data_harmonised/L085__47.png,0.3253936767578125
+normal_liver/48.jpeg,0,normal,L086,48,5a5d065a25ada5d1aa99a51af64d0104,810,1080,187842,6.0,12.21875,data_harmonised/L086__48.png,0.3203582763671875
+normal_liver/49.jpeg,0,normal,L086,49,f31f632fbc6e105cc93a0aa50bd364c5,810,1080,181704,6.0,12.21875,data_harmonised/L086__49.png,0.2128753662109375
+normal_liver/50.jpeg,0,normal,L087,50,86f92ad84afb57c72e596250dfc423ae,810,1080,156678,6.0,12.21875,data_harmonised/L087__50.png,0.3159027099609375
+normal_liver/51.jpeg,0,normal,L088,51,add97584cad4f257b85c11b7b86fdf23,810,1080,157558,6.0,12.21875,data_harmonised/L088__51.png,0.5806427001953125
+normal_liver/52.jpeg,0,normal,L088,52,65f2dec3c82723a3b3ea1585739c6bff,810,1080,156224,6.0,12.21875,data_harmonised/L088__52.png,0.566192626953125
+normal_liver/53.jpeg,0,normal,L089,53,f2c9bdfea7df13866d46541bfdbd4779,810,1080,117159,6.0,12.21875,data_harmonised/L089__53.png,0.56500244140625
+normal_liver/54.jpeg,0,normal,L090,54,3c80ee02d8c97fb52afac255980d65ad,810,1080,118174,6.0,12.21875,data_harmonised/L090__54.png,0.5783538818359375
+normal_liver/55.jpeg,0,normal,L091,55,2f30d91ec5dc5cd8ad0fb4e22460b2c5,810,1080,177547,6.0,12.21875,data_harmonised/L091__55.png,0.2263336181640625
+normal_liver/56.jpeg,0,normal,L092,56,89f2de4d951970c9ed2308666a43f488,810,1080,180931,6.0,12.21875,data_harmonised/L092__56.png,0.31329345703125
+normal_liver/57.jpeg,0,normal,L093,57,7f4ecd67ee0f80df6510b5b6ba86dae2,810,1080,182843,6.0,12.21875,data_harmonised/L093__57.png,0.1900634765625
+normal_liver/58.jpeg,0,normal,L094,58,442b858b5fa3387c1d0989f89ed9466a,810,1080,145889,6.0,12.21875,data_harmonised/L094__58.png,0.53448486328125
+normal_liver/59.jpeg,0,normal,L094,59,a22adf46c1c7b2399c90b50eddbde4cc,810,1080,147774,6.0,12.21875,data_harmonised/L094__59.png,0.5258636474609375
+normal_liver/6.jpeg,0,normal,L095,6,c8f75d1e1213b554158b2e9a93313912,810,1080,191709,6.0,12.21875,data_harmonised/L095__6.png,0.1865997314453125
+normal_liver/60.jpeg,0,normal,L096,60,08ebc2b3a37f5b1c2e5da6dad5018f49,810,1080,158990,6.0,12.21875,data_harmonised/L096__60.png,0.371673583984375
+normal_liver/61.jpeg,0,normal,L096,61,b2058fa0f23bf54fb3c3b5ccbeca37c6,810,1080,165984,6.0,12.21875,data_harmonised/L096__61.png,0.3506011962890625
+normal_liver/62.jpeg,0,normal,L097,62,332ebe76d184d07e94da07f484893dc4,810,1080,144940,6.0,12.21875,data_harmonised/L097__62.png,0.3844451904296875
+normal_liver/63.jpeg,0,normal,L098,63,f2e7b76efa3070f5c6e2f2317795bef9,810,1080,155408,6.0,12.21875,data_harmonised/L098__63.png,0.61083984375
+normal_liver/64.jpeg,0,normal,L099,64,00b9d4da04b3320f5e1798950d8de383,810,1080,105790,6.0,12.21875,data_harmonised/L099__64.png,0.5587921142578125
+normal_liver/65.jpeg,0,normal,L100,65,9c7f403770dfa6eae04f91095455d3c3,810,1080,183733,6.0,12.21875,data_harmonised/L100__65.png,0.3147735595703125
+normal_liver/66.jpeg,0,normal,L101,66,f77b2c98483639b8dd23d792270c2b4e,810,1080,166172,6.0,12.21875,data_harmonised/L101__66.png,0.3716278076171875
+normal_liver/67.jpeg,0,normal,L100,67,be7dcee3708f9bd3fa9a95e66ba455b0,810,1080,188743,6.0,12.21875,data_harmonised/L100__67.png,0.3119049072265625
+normal_liver/68.jpeg,0,normal,L102,68,375932084d0326ad657118cded5206e6,810,1080,184080,6.0,12.21875,data_harmonised/L102__68.png,0.3643951416015625
+normal_liver/69.jpeg,0,normal,L103,69,ee9e5ef41a16d04900f78d379a6b6a61,810,1080,181352,6.0,12.21875,data_harmonised/L103__69.png,0.3901519775390625
+normal_liver/7.jpeg,0,normal,L095,7,449e27604db6a430f48d9deff14a4fb0,810,1080,194228,6.0,12.21875,data_harmonised/L095__7.png,0.2092132568359375
+normal_liver/70.jpeg,0,normal,L104,70,076d6dc2afc3a97577b120847c93f0c2,810,1080,152560,6.0,12.21875,data_harmonised/L104__70.png,0.595001220703125
+normal_liver/71.jpeg,0,normal,L105,71,e0a2e52d46e65eaf882080a8b954dac4,810,1080,145415,6.0,12.21875,data_harmonised/L105__71.png,0.650146484375
+normal_liver/72.jpeg,0,normal,L106,72,378cfb084fbe7bc7525e997756e356bf,810,1080,150761,6.0,12.21875,data_harmonised/L106__72.png,0.608551025390625
+normal_liver/73.jpeg,0,normal,L107,73,743a032c696d9164dff3a7b0f10fafc1,810,1080,168033,6.0,12.21875,data_harmonised/L107__73.png,0.32843017578125
+normal_liver/74.jpeg,0,normal,L108,74,ca60b335f73d79a883e51e395e5d35b1,810,1080,154505,6.0,12.21875,data_harmonised/L108__74.png,0.562255859375
+normal_liver/75.jpeg,0,normal,L109,75,1453f6e3a959fd508f9119d8ea99adc1,810,1080,168118,6.0,12.21875,data_harmonised/L109__75.png,0.366943359375
+normal_liver/76.jpeg,0,normal,L109,76,ed4b58af272c5c932bb69c2d2c1cb5df,810,1080,172434,6.0,12.21875,data_harmonised/L109__76.png,0.379150390625
+normal_liver/77.jpeg,0,normal,L110,77,8e78ae39984201467782a55f674cb6e9,810,1080,149557,6.0,12.21875,data_harmonised/L110__77.png,0.5001068115234375
+normal_liver/78.jpeg,0,normal,L111,78,3bbb8975b3b9ea05d6850071d488ff9b,810,1080,159395,6.0,12.21875,data_harmonised/L111__78.png,0.892425537109375
+normal_liver/79.jpeg,0,normal,L112,79,f54578347b2c583044e7c8a30e7fa686,810,1080,139433,6.0,12.21875,data_harmonised/L112__79.png,0.6334075927734375
+normal_liver/8.jpeg,0,normal,L113,8,5cf491124231425becc6e84906c4217e,810,1080,157702,6.0,12.21875,data_harmonised/L113__8.png,0.6086578369140625
+normal_liver/80.jpeg,0,normal,L114,80,4c6a268c2ff151109749768d155a04b9,810,1080,146787,6.0,12.21875,data_harmonised/L114__80.png,0.512298583984375
+normal_liver/81.jpeg,0,normal,L115,81,fe9108fbcec1e8111b74f532d6d69b2e,810,1080,137654,6.0,12.21875,data_harmonised/L115__81.png,0.58843994140625
+normal_liver/82.jpeg,0,normal,L116,82,2d745c182223b67bddc188af9872846c,810,1080,155185,6.0,12.21875,data_harmonised/L116__82.png,0.27032470703125
+normal_liver/83.jpeg,0,normal,L117,83,be5e595bbc48736051149493e37b2947,810,1080,163206,6.0,12.21875,data_harmonised/L117__83.png,0.345672607421875
+normal_liver/84.jpeg,0,normal,L118,84,ef84ab7aeab8ba42fd37875905f1f1ef,810,1080,162341,6.0,12.21875,data_harmonised/L118__84.png,0.296356201171875
+normal_liver/85.jpeg,0,normal,L119,85,7a0d4163eaeade5c0c0bf8e82bba9693,810,1080,133994,6.0,12.21875,data_harmonised/L119__85.png,0.4715728759765625
+normal_liver/86.jpeg,0,normal,L120,86,195021bdd9ec1623194d8089c026776e,810,1080,158622,6.0,12.21875,data_harmonised/L120__86.png,0.52789306640625
+normal_liver/87.jpeg,0,normal,L119,87,ec047179f4199db068618e513ba5ee60,810,1080,131829,6.0,12.21875,data_harmonised/L119__87.png,0.4738922119140625
+normal_liver/88.jpeg,0,normal,L121,88,e8f22514dcf78e21f43a7860ad7a4d9d,810,1080,172596,6.0,12.21875,data_harmonised/L121__88.png,0.242828369140625
+normal_liver/89.jpeg,0,normal,L120,89,e1598a741b80bbbb71e1e1b0920744ac,810,1080,156688,6.0,12.21875,data_harmonised/L120__89.png,0.53131103515625
+normal_liver/90.jpeg,0,normal,L122,90,0e35515c49e2b94bfa7af74c572ef9af,810,1080,178165,6.0,12.21875,data_harmonised/L122__90.png,0.22943115234375
+normal_liver/91.jpeg,0,normal,L123,91,fb544fdf6dbdfda64cedd488c6564070,810,1080,166025,6.0,12.21875,data_harmonised/L123__91.png,0.2471923828125
+normal_liver/92.jpeg,0,normal,L124,92,fbc346a29999ed4c65299d07cdd0a2d5,810,1080,166654,6.0,12.21875,data_harmonised/L124__92.png,0.3394927978515625
+normal_liver/93.jpeg,0,normal,L125,93,02815ee45115e2ce6f2e48961d472972,810,1080,132140,6.0,12.21875,data_harmonised/L125__93.png,0.3116455078125
+normal_liver/94.jpeg,0,normal,L126,94,9e0a0106f75c7f55d8851898397d7c93,810,1080,186533,6.0,12.21875,data_harmonised/L126__94.png,0.62408447265625
+normal_liver/95.jpeg,0,normal,L127,95,5fecfcc12ec4210140710e5cced969a5,810,1080,141120,6.0,12.21875,data_harmonised/L127__95.png,0.49334716796875
+normal_liver/96.jpeg,0,normal,L128,96,c4e9145dfe0787e9e21861b0e454f950,810,1080,126186,6.0,12.21875,data_harmonised/L128__96.png,0.4019317626953125
+normal_liver/97.jpeg,0,normal,L129,97,c3d9e730380c7bf40189372d1b9e4837,810,1080,134180,6.0,12.21875,data_harmonised/L129__97.png,0.5036468505859375
+normal_liver/98.jpeg,0,normal,L130,98,dd97c925829e699a10431095e6cc3e19,810,1080,125174,6.0,12.21875,data_harmonised/L130__98.png,0.4865875244140625
+normal_liver/99.jpeg,0,normal,L131,99,98ccb729571e78dffbb65a0a39b5f898,810,1080,139900,6.0,12.21875,data_harmonised/L131__99.png,0.592864990234375

@@ -1,0 +1,2 @@
+n_patches,n_images_sampled,n_images_no_patch,patch_px,max_patches_per_image,mask_frac_normal,mask_frac_lesion,patches_per_image
+1908,159,0,64,12,0.4458646479341173,0.48521226452242944,12.0

@@ -1,0 +1,8 @@
+probe,rf_auc,svm_auc,worst_auc,gated,verdict
+[RAW] capture metadata,1.0,1.0,1.0,True,LEAKS
+[RAW] compression artefact,0.48825236167341435,0.6050708502024292,0.6050708502024292,True,clean
+[RAW] image content stats,0.9589102564102564,0.9521120107962213,0.9589102564102564,False,content (not gated)
+[HARMONISED] capture metadata,0.5,0.5,0.5,True,clean
+[HARMONISED] compression artefact,0.46957827260458834,0.6075506072874495,0.6075506072874495,True,clean
+[HARMONISED] image content stats,0.902933535762483,0.8908097165991903,0.902933535762483,False,content (not gated)
+shuffled labels (protocol sanity),0.47373819163292846,,0.47373819163292846,True,clean
